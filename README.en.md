@@ -6,6 +6,8 @@ A coaching skill (prompt rules) for [Claude Code](https://claude.com/claude-code
 
 > [中文说明](README.md)
 
+> 💡 **Not just for algorithms**: the core of this skill is a general "coach mode" — never write it for you, graded hints, structured debriefs. To use it as a coach for **other hands-on coding practice** (syntax drills, data-structure implementations, coursework projects…), just adapt the "user profile" and "lecture-notes map" the same way; the four iron rules carry over unchanged.
+
 ---
 
 ## The problem: getting code from AI does not mean you learned it
